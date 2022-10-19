@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/CF_10_122153_GESTION_DESARROLLO_INNOVACION/#/](https://sena-externos.github.io/CF_10_122153_GESTION_DESARROLLO_INNOVACION/#/)
 
 #
 
