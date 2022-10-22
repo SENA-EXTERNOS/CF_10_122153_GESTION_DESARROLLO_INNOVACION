@@ -12,7 +12,7 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .cajon.color-acento-botones.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Para poder generar instrumentos integrales y que respalden las características enunciadas citaremos a Hernández et al. (2014), quienes en Metodología de la investigación. Las rutas cuantitativa, cualitativa y mixta, exponen que “toda medición o instrumento de recolección de datos debe reunir requisitos esenciales, entre ellos la confiabilidad y la validez”. (p. 198) 
+          p(data-aos="fade-down").mb-0 Para poder generar instrumentos integrales y que respalden las características enunciadas citaremos a Hernández et al. (2014), quienes en #[i Metodología de la investigación. Las rutas cuantitativa, cualitativa y mixta], exponen que “toda medición o instrumento de recolección de datos debe reunir requisitos esenciales, entre ellos la confiabilidad y la validez”. (p. 198) 
 
 
         .tarjeta.color-primario.p-3.mb-5(data-aos="flip-up")
@@ -37,7 +37,7 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         LineaTiempoD.color-secundario
-          p.mb-0(numero="1" titulo="Fase 1 - Redefiniciones fundamentales") En esta etapa se deberán reevaluar las variables de la investigación (ver si se mantienen o modifican), el lugar específico donde se recabarán los datos, el propósito de tal recolección, quiénes y cuándo (momento) van a ser medidos, las definiciones operacionales y el tipo de datos que se quieren obtener (respuestas verbales, respuestas escritas, conductas observables, valores de una escala, etcétera) 
+          p.mb-0(numero="1" titulo="Fase 1 - Redefiniciones fundamentales") En esta etapa se deberán reevaluar las variables de la investigación (ver si se mantienen o modifican), el lugar específico donde se recabarán los datos, el propósito de tal recolección, quiénes y cuándo (momento) van a ser medidos, las definiciones operacionales y el tipo de datos que se quieren obtener (respuestas verbales, respuestas escritas, conductas observables, valores de una escala, etcétera). 
 
           p.mb-0(numero="2" titulo="Fase 2 - Revisión enfocada de la literatura") Este paso debe servir para encontrar mediante la revisión de la literatura, los instrumentos o sistemas de medición utilizados en otros estudios anteriores para medir las variables de interés, lo cual ayudará a identificar qué herramientas pueden ser de utilidad.
 

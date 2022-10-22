@@ -130,19 +130,14 @@
           img(src='@/assets/curso/temas/img10.svg', alt='Técnicas de recolección de información')
 
       .tarjeta.color-acento-contenido.p-3(x="9.1%" y="68.7%" numero="+")
-        h4 Encuesta 
         p Esta técnica de recolección de datos da lugar a establecer contacto con las unidades de observación por medio de los cuestionarios previamente establecidos. 
       .tarjeta.color-secundario.p-3(x="29.6%" y="33.2%" numero="+")
-        h4 Entrevista
         p Es una situación de interrelación o diálogo entre el entrevistador y el entrevistado. Esta técnica presenta diversas modalidades: asistemática o libre, estructurada, focalizada, simultánea y sucesiva.    
       .tarjeta.color-acento-contenido.p-3(x="50.1%" y="68.7%" numero="+")
-        h4 Análisis documental 
         p Una diferencia muy notoria entre esta y las otras técnicas que se están tratando es que en estas últimas se obtienen datos de fuente primaria, y contrastando con el análisis documental los datos se recolectan de fuentes secundarias.
       .tarjeta.color-secundario.p-3(x="70.7%" y="33.2%" numero="+")
-        h4 Observación no experimental 
         p Está técnica se utiliza para profundizar en el conocimiento del comportamiento de exploración. Un ejemplo claro es que en una investigación exploratoria se ha encontrado que los clientes de una empresa no están conformes con el tiempo que deben esperar para ser atendidos.         
       .tarjeta.color-acento-contenido.p-3(x="91.2%" y="68.7%" numero="+")
-        h4 Observación experimental 
         p La observación experimental es una poderosa técnica de investigación científica y se diferencia de la no experimental porque elabora datos en condiciones relativamente controladas por el investigador, particularmente porque este puede manipular la o las variables. 
 </template>
 
