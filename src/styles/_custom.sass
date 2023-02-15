@@ -1,30 +1,55 @@
+.banner-principal__img img
+  width: 360px
+  margin: 0 auto
+  margin-right: -2px
+  margin-top: -33px
 .banner-principal-decorativo
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 18%
     right: 62%
+    img 
+      width: inherit !important
+      margin-right: 0px
+      margin-top: 0px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 28%
     right: 2%
+    img 
+      width: inherit !important
+      margin-right: 0px
+      margin-top: 0px
   &-3
     animation: scale 2.8s ease-in-out infinite alternate
     position: absolute
     top: 68%
     right: 10%
+    img 
+      width: inherit !important
+      margin-right: 0px
+      margin-top: 0px
   &-4
     animation: float1 4.8s ease-in-out infinite alternate
     position: absolute
     top: 70%
     right: 70%
+    img 
+      width: inherit !important
+      margin-right: 0px
+      margin-top: 0px
   &-5
     animation: rotation 4s infinite linear
     position: absolute
-    top: 25%
+    top: 21%
     right: 10%            
     z-index: -1
+    img 
+      width: inherit !important
+      margin-right: 0px
+      margin-top: 0px
 .banner-principal__img
   z-index: 1
 .banner-interno__fondo
@@ -105,7 +130,7 @@
 
   .crd_hover_txt--body
     position: absolute
-    padding: 1.5rem
+    padding: 1.5rem 0.8rem
     bottom: 0    
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
     transform: translateY(calc( 100% - 3.85rem ))
@@ -203,3 +228,19 @@
 
 .horizontal-scroll
   align-items: stretch !important           
+
+
+.cuadrado i
+  font-size: 18px
+  color: #3D46C2
+  padding-bottom: 4px
+
+@media (min-width:$bp-min-xl)
+  .tamano-tabs .col-xl-3
+    width: 40% !important
+  .tamano-tabs .col-xl-9
+    width: 60% !important
+  .tamano-tabs button  
+    white-space: normal
+  .tamano-tabs .tabs-a__tab
+    padding: 15px

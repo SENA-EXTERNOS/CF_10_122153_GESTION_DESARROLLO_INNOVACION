@@ -12,8 +12,7 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .cajon.color-acento-botones.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Para poder generar instrumentos integrales y que respalden las características enunciadas citaremos a Hernández et al. (2014), quienes en #[i Metodología de la investigación. Las rutas cuantitativa, cualitativa y mixta], exponen que “toda medición o instrumento de recolección de datos debe reunir requisitos esenciales, entre ellos la confiabilidad y la validez”. (p. 198) 
-
+          p(data-aos="fade-down").mb-0 Para poder generar instrumentos integrales y que respalden las características enunciadas, citaremos a Hernández et al. (2014), quienes en su libro: Metodología de la investigación, en el tema respecto a las rutas cuantitativa, cualitativa y mixta, exponen que “toda medición o instrumento de recolección de datos, debe reunir requisitos esenciales, entre ellos la confiabilidad y la validez”. (p. 198)
 
         .tarjeta.color-primario.p-3.mb-5(data-aos="flip-up")
           .row.justify-content-around.align-items-center
@@ -53,9 +52,9 @@
 
           p.mb-0(numero="5" titulo="Fase 5 - Construcción del instrumento") La etapa implica la generación de todos los ítems o reactivos, indicadores y/o categorías del instrumento, así como determinar sus niveles de medición, codificación e interpretación. 
 
-          p.mb-0(numero="6" titulo="Fase 6 - Prueba piloto") Consiste en administrar el instrumento a una pequeña muestra de casos para probar su pertinencia y eficacia (incluyendo instrucciones), así como las condiciones de la aplicación y los procedimientos involucrados. A partir de esta prueba se calculan la confiabilidad y la validez iniciales del instrumento 
+          p.mb-0(numero="6" titulo="Fase 6 – Prueba piloto") Consiste en administrar el instrumento a una pequeña muestra de casos para probar su pertinencia y eficacia (incluyendo instrucciones), así como las condiciones de la aplicación y los procedimientos involucrados. A partir de esta prueba se calculan la confiabilidad y la validez iniciales del instrumento. 
 
-          p.mb-0(numero="7" titulo="Fase 7 - Elaboración de la versión final del instrumento y su procedimiento de aplicación e interpretación") Implica la revisión del instrumento o sistema de medición y su forma de administración, para implementar cambios necesarios (quitar o agregar ítems, ajustar instrucciones, tiempo para responder, etc.) y posteriormente construir la versión definitiva, incluyendo un diseño atractivo. 
+          p.mb-0(numero="7" titulo="Fase 7 – Elaboración de la versión final del instrumento y su procedimiento de aplicación e interpretación") Implica la revisión del instrumento o sistema de medición y su forma de administración, para implementar cambios necesarios (quitar o agregar ítems, ajustar instrucciones, tiempo para responder, etc.) y posteriormente construir la versión definitiva, incluyendo un diseño atractivo.
 
           p.mb-0(numero="8" titulo="Fase 8 - Entrenamiento del personal que va a administrar el instrumento y calificarlo") Esta etapa consiste en capacitar y motivar a las personas que habrán de aplicar y codificar respuestas o valores producidos por el instrumento o sistema de medición. 
 
@@ -69,9 +68,10 @@
             br
             span Insertarlos en una base de datos (matriz).
 
-    Separador 
-    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 3.1 Tipos de datos y agrupación
+    #t_3_1.cuadrado.mb-4(data-aos="zoom-in-left")
+      h3 
+        i.fas.fa-square   
+        |  Tipos de preguntas 
 
     p(data-aos="fade-down") Llegamos así a la formulación de las preguntas de investigación, en este paso es importante tener en cuenta que estas se organizan por un propósito en específico, y partiendo de lo que se pretende buscar se escoge el tipo de pregunta a realizar.
     p(data-aos="fade-down").mb-5 Bajo este concepto, existen tres criterios principales y cuentan con las siguientes características:
@@ -117,9 +117,10 @@
                     span Ver video
                     i.fas.fa-play-circle 
 
-    Separador 
-    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 3.2 Aplicación de instrumentos
+    #t_3_2.cuadrado.mb-4(data-aos="zoom-in-left")
+      h3 
+        i.fas.fa-square   
+        |  Aplicación de instrumentos
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
@@ -155,14 +156,14 @@
           .col-8
             img(src='@/assets/curso/temas/4.png' alt='AvatarTop')
 
-        p.text-center Desarrolle un lenguaje de marco compresible en donde se aplique el instrumento.
+        p.text-center Desarrolle un lenguaje de marco comprensible en donde se aplique el instrumento.
 
       .tarjeta.color-acento-botones.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/5.png' alt='AvatarTop')
 
-        p.text-center Tenga presente la inclusión de la identificación a quien o de donde se obtiene la información.
+        p.text-center Tenga presente la inclusión de la identificación de, a quién o de dónde, se obtiene la información.
 
       .tarjeta.color-acento-botones.p-4.h-100
         .row.justify-content-center.mb-3

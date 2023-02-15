@@ -12,15 +12,16 @@
         .bloque-texto-b.color-acento-botones.p-4(data-aos="fade-down")
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4 La fuente de información es todo aquello que nos proporciona datos para reconstruir hechos y las bases del conocimiento, afirmando que las fuentes de información son un instrumento para el conocimiento, la búsqueda y el acceso de  la información
+            p La fuente de información es todo aquello que nos proporciona datos para reconstruir hechos y las bases del conocimiento, afirmando que las fuentes de información son un instrumento para el conocimiento, la búsqueda y el acceso de la información.
             br
             br
-            p.mb-0 - Rivera, M. & Fernández, M.(2015) en Fuentes de información (p. 2).  
+            p.mb-0 
+              b Rivera, M. & Fernández, M.(2015) en Fuentes de información (p. 2). 
             i.fas.fa-quote-right
 
     p(data-aos="fade-down").mb-5 A continuación, se presentan los diferentes tipos de fuentes de información según lo expuesto por Rivera, M. & Fernández, M. (2015), estas serán de gran apoyo al investigador para la focalización de la información
 
-    .row.justify-content-center.align-items-start.mb-5           
+    .row.justify-content-center.align-items-start.mb-3          
       .col-lg-7
         AcordionA(data-aos="fade-right").mb-5(tipo="a" clase-tarjeta="tarjeta bg1")
           .row.justify-content-center.align-items-center(titulo="Fuentes primarias")
@@ -57,7 +58,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img5.svg', alt='')
 
     p(data-aos="fade-down") Es importante que para la selección de la fuente de información adecuada se consideren algunos criterios.        
-    p(data-aos="fade-down").mb-5 De acuerdo con Rivera & Fernández (2015) los criterios para la selección de la fuente de información está basada en tres criterios fundamentales, estos serán expuestos a continuación:
+    p(data-aos="fade-down").mb-5 De acuerdo con Rivera & Fernández (2015), los criterios para la selección de la fuente de información, están basados en tres criterios fundamentales, los cuales serán expuestos a continuación:
 
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -85,7 +86,7 @@
               img(src="@/assets/curso/temas/img8.png", alt="alt")
           .crd_hover_txt--body.text-center
             h4.mb-3 Idoneidad de las fuentes
-            p.mb-0 Quienes elaboran fuentes secundarias o terciarias son especialistas en las áreas o que estas corresponden, por ende, se debe aprovechar al máximo el esfuerzo.
+            p.mb-0 Quienes elaboran fuentes secundarias o terciarias, son especialistas en las áreas a las que estas corresponden; por ende, se debe aprovechar al máximo, el esfuerzo.
 
     p(data-aos="fade-down") Cuando se tiene la información ubicada a través de las fuentes enunciadas anteriormente, es necesario desarrollar métodos para recolectar esa información de manera correcta, estos son conocidos comúnmente como técnicas de recolección de información, las cuales permiten tener un panorama integral de la información que es objeto de estudio, y respaldan el análisis de información que soportan la investigación.
 
@@ -97,7 +98,7 @@
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img9.png', alt='')
       .col-lg-7
-        TabsA.color-acento-contenido.mb-5
+        TabsA.color-acento-contenido.mb-5.tamano-tabs
           .tarjeta.color-primario--borde.p-4(titulo="La naturaleza del objeto de estudio")
             h4 La naturaleza del objeto de estudio 
             p En esta característica se deben articular los métodos para el desarrollo de la obtención de información y tipos de datos según el objeto de estudio. 
@@ -109,7 +110,7 @@
             p Con el fin de tener claridad en los datos y determinar la magnitud de los instrumentos requeridos para su análisis se debe articular la población, muestreo y determinación de la muestra, de modo que se pueda definir cuál técnica será la más favorable para el levantamiento, el tratamiento y el análisis de la información.  
           .tarjeta.color-primario--borde.p-4(titulo="Los recursos con los que cuenta y requiere la investigación")
             h4 Los recursos con los que cuenta y requiere la investigación 
-            p Los recursos con que cuenta la organización son vitales para la disposición de herramientas. Cuando hablamos de recursos debemos tener presentes los económicos, humanos, tecnológicos, logísticos, entre muchos otros; además de estos, se debe comprender que la investigación puede necesitar recursos que usted no administre, y que para no carecer de ellos se deben planificar y gestionar de manera oportuna su consecución  
+            p Los recursos con que cuenta la organización, son vitales para la disposición de herramientas. Cuando hablamos de recursos, debemos tener presentes los económicos, humanos, tecnológicos, logísticos, entre muchos otros; además de estos, se debe comprender que la investigación se pueden necesitar recursos que no se administren, y para no carecer de ellos, se deben planificar y gestionar de manera oportuna su consecución. 
           .tarjeta.color-primario--borde.p-4(titulo="La oportunidad de obtener datos")
             h4 La oportunidad de obtener datos 
             p Las variables de tiempo y oportunidad en muchas ocasiones no se planifican y son determinantes en la obtención de datos. No es lo mismo realizar levantamiento de información en trabajos de campo cuando el clima es de invierno o verano, o llegar en momentos de afectaciones empresariales al desarrollo de una entrevista; estas situaciones pueden desencadenar la concesión de recursos no proyectados.  

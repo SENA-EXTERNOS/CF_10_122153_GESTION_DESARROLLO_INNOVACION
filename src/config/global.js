@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Manejo de datos',
     descripcionCurso:
-      'El registro de la información trae una serie de criterios que permiten interpretar más y más datos. Para su máxima potenciación es necesario comprender sus componentes, ciclos y objetivos; efectuando parámetros preestablecidos, apoyándose en técnicas y fuentes para la recolección de información, estos deben estar bajo criterios y modelos científicamente validados, ya que serán de gran ayuda para el desarrollo académico y laboral del aprendiz.',
+      'El registro de la información contiene varios criterios que permiten interpretar muchos datos. Para su máxima potenciación, es necesario comprender sus componentes, ciclos y objetivos, efectuando parámetros preestablecidos, apoyándose en técnicas y fuentes para la recolección de información; estos deben estar bajo criterios y modelos científicamente validados, porque serán de gran ayuda para el desarrollo académico y laboral del aprendiz.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -48,18 +48,18 @@ export default {
         titulo: 'Datos',
         desarrolloContenidos: true,
         subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Tipos de datos y agrupación ',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Principios de clasificación de los datos e información ',
-            hash: 't_1_2',
-          },
+          //{
+          //icono: 'far fa-file-alt',
+          //numero: '1.1',
+          //titulo: 'Tipos de datos y agrupación ',
+          //hash: 't_1_1',
+          //},
+          //{
+          //icono: 'far fa-file-alt',
+          //numero: '1.2',
+          //titulo: 'Principios de clasificación de los datos e información ',
+          //hash: 't_1_2',
+          //},
         ],
       },
 
@@ -77,18 +77,18 @@ export default {
         titulo: 'Instrumentos de recolección de datos',
         desarrolloContenidos: true,
         subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Tipos de datos y agrupación ',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Aplicación de instrumentos',
-            hash: 't_3_2',
-          },
+          //{
+          // icono: 'far fa-file-alt',
+          // numero: '3.1',
+          //titulo: 'Tipos de preguntas',
+          //hash: 't_3_1',
+          // },
+          //{
+          //icono: 'far fa-file-alt',
+          // numero: '3.2',
+          // titulo: 'Aplicación de instrumentos',
+          // hash: 't_3_2',
+          // },
         ],
       },
       {
@@ -98,19 +98,19 @@ export default {
         titulo: 'Manejo y protección de datos',
         desarrolloContenidos: true,
         subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Clasificación de los datos',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo:
-              'Recomendaciones para establecer un sistema de clasificación de datos en las organizaciones',
-            hash: 't_4_2',
-          },
+          //{
+          // icono: 'far fa-file-alt',
+          // numero: '4.1',
+          // titulo: 'Clasificación de los datos',
+          // hash: 't_4_1',
+          //},
+          //{
+          // icono: 'far fa-file-alt',
+          // numero: '4.2',
+          // titulo:
+          //  'Recomendaciones para establecer un sistema de clasificación de datos en las organizaciones',
+          // hash: 't_4_2',
+          // },
         ],
       },
     ],
@@ -158,21 +158,21 @@ export default {
     {
       tema: 'Fuentes y técnicas de recolección de información',
       referencia:
-        'Marketing 2.0. (2019). <i>Fuentes primarias y secundarias (Datos primarios y secundarios) tipos de información</i>. ',
+        'Marketing 2.0. (2019). <em>Fuentes primarias y secundarias (Datos primarios y secundarios) tipos de información</em> [video]. YouTube ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=88DpgQxCq0E ',
     },
     {
       tema: 'Instrumentos de recolección de datos',
       referencia:
-        'TeoCom. (2021). <i>Confiabilidad y validez de un instrumento de investigación I Metodología de la Investigación</i>. ',
+        'TeoCom. (2021). <em>Confiabilidad y validez de un instrumento de investigación I Metodología de la Investigación</em> [video]. YouTube ',
       tipo: 'Video',
       link: 'https://youtu.be/yZH6WGoQMhk',
     },
     {
       tema: 'Instrumentos de recolección de datos',
       referencia:
-        'Jibaro X. (2019). <i>Tipos de preguntas en una encuesta</i>. ',
+        'Jibaro X. (2019). <em>Tipos de preguntas en una encuesta</em> [video]. YouTube ',
       tipo: 'Video',
       link: 'https://youtu.be/mwnQuUi9014 ',
     },
