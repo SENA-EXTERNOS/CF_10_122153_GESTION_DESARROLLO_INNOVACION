@@ -59,7 +59,7 @@
               img(src='@/assets/curso/temas/img4.svg', alt='Principios de clasificación de los datos')
 
           .tarjeta.color-secundario.p-3(x="23%" y="12.5%" numero="+")
-            p.mb-0 En la actualidad, el manejo de los datos debe protegerse, de acuerdo con el nivel de sensibilidad, valor y criticidad de la información; También se manejan criterios de niveles de riesgo y sensibilidad, para la administración de mecanismos de protección y reserva. 
+            p.mb-0 En la actualidad, el manejo de los datos debe protegerse, de acuerdo con el nivel de sensibilidad, valor y criticidad de la información. También se manejan criterios de niveles de riesgo y sensibilidad, para la administración de mecanismos de protección y reserva. 
           .tarjeta.color-acento-contenido.p-3(x="17.5%" y="50%" numero="+")
             p.mb-0 Los datos deben poder ser clasificados de acuerdo con su contenido, dado que puede generar sensibilidad en el manejo de la información. Además deben tener carácter de generalidades y no de particularidades independientemente del modelo de obtención. No debe haber ninguna discriminación basada en el formato o soporte de la información.
           .tarjeta.color-secundario.p-3(x="22%" y="86%" numero="+") 

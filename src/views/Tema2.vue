@@ -7,17 +7,9 @@
         span 2
       h1 Fuentes y técnicas de recolección de información
 
-    .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-8      
-        .bloque-texto-b.color-acento-botones.p-4(data-aos="fade-down")
-          .bloque-texto-b__texto
-            i.fas.fa-quote-left
-            p La fuente de información es todo aquello que nos proporciona datos para reconstruir hechos y las bases del conocimiento, afirmando que las fuentes de información son un instrumento para el conocimiento, la búsqueda y el acceso de la información.
-            br
-            br
-            p.mb-0 
-              b Rivera, M. & Fernández, M.(2015) en Fuentes de información (p. 2). 
-            i.fas.fa-quote-right
+    p(data-aos="fade") Rivera, M. & Fernández, M. (2015) en Fuentes de información indican que: 
+
+    p(data-aos="fade").mb-4 “La fuente de información es todo aquello que nos proporciona datos para reconstruir hechos y las bases del conocimiento, afirmando que las fuentes de información son un instrumento para el conocimiento, la búsqueda y el acceso de la información”. (p. 2)
 
     p(data-aos="fade-down").mb-5 A continuación, se presentan los diferentes tipos de fuentes de información según lo expuesto por Rivera, M. & Fernández, M. (2015), estas serán de gran apoyo al investigador para la focalización de la información
 
