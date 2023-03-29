@@ -60,7 +60,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/OVf6PbERmbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     p(data-aos="fade-down").mb-5 Sintetizando, una vez dispuesta la primera estandarización de las generalidades se debe implementar la clasificación de los datos con la particularidad de considerar y ponderar los beneficios de la integración de tecnologías emergentes que van surgiendo. Además, se debe tener una fase de monitoreo constante orientada a la supervisión y debe velar por la garantía de calidad de los datos, desencadenado en ejercicios de mejora continua que motiven a un proceso de integridad de la información. Así mismo, como última fase se debe tener en cuenta la revisión y ajuste bajo esquemas de periodicidad con el fin de ponderar la integralidad de todo el sistema de clasificación de los datos y la protección necesaria para la información.
 
