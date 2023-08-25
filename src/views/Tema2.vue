@@ -87,26 +87,26 @@
     p(data-aos="fade-down").mb-5 Previa a la selección de las técnicas de información es necesario considerar y conocer ciertas características:
 
     .row.justify-content-center.align-items-start.mb-5           
-      .col-lg-5
+      .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img9.png', alt='')
-      .col-lg-7
-        TabsA.color-acento-contenido.mb-5.tamano-tabs
-          .tarjeta.color-primario--borde.p-4(titulo="La naturaleza del objeto de estudio")
+      .col-lg-12.my-3
+        TabsC.color-acento-contenido.mb-5.tamano-tabs
+          .tarjeta.color-primario--borde.p-4.my-3(titulo="La naturaleza del objeto de estudio")
             h4 La naturaleza del objeto de estudio 
             p En esta característica se deben articular los métodos para el desarrollo de la obtención de información y tipos de datos según el objeto de estudio. 
-          .tarjeta.color-primario--borde.p-4(titulo="Acceso con los investigados o responsables de la información")
+          .tarjeta.color-primario--borde.p-4.my-3(titulo="Acceso con los investigados o responsables de la información")
             h4 Acceso con los investigados o responsables de la información 
             p Se debe prever cómo se puede obtener el acceso de información que sea objeto de análisis. Es importante aplicar recursos como los consentimientos informados, ya que con ellos se podrá tener un panorama aprobado para la aplicación de instrumentos a utilizar.  
-          .tarjeta.color-primario--borde.p-4(titulo="El tamaño de la población o muestra")
+          .tarjeta.color-primario--borde.p-4.my-3(titulo="El tamaño de la población o muestra")
             h4 El tamaño de la población o muestra 
             p Con el fin de tener claridad en los datos y determinar la magnitud de los instrumentos requeridos para su análisis se debe articular la población, muestreo y determinación de la muestra, de modo que se pueda definir cuál técnica será la más favorable para el levantamiento, el tratamiento y el análisis de la información.  
-          .tarjeta.color-primario--borde.p-4(titulo="Los recursos con los que cuenta y requiere la investigación")
+          .tarjeta.color-primario--borde.p-4.my-3(titulo="Los recursos con los que cuenta y requiere la investigación")
             h4 Los recursos con los que cuenta y requiere la investigación 
             p Los recursos con que cuenta la organización, son vitales para la disposición de herramientas. Cuando hablamos de recursos, debemos tener presentes los económicos, humanos, tecnológicos, logísticos, entre muchos otros; además de estos, se debe comprender que la investigación se pueden necesitar recursos que no se administren, y para no carecer de ellos, se deben planificar y gestionar de manera oportuna su consecución. 
-          .tarjeta.color-primario--borde.p-4(titulo="La oportunidad de obtener datos")
+          .tarjeta.color-primario--borde.p-4.my-3(titulo="La oportunidad de obtener datos")
             h4 La oportunidad de obtener datos 
             p Las variables de tiempo y oportunidad en muchas ocasiones no se planifican y son determinantes en la obtención de datos. No es lo mismo realizar levantamiento de información en trabajos de campo cuando el clima es de invierno o verano, o llegar en momentos de afectaciones empresariales al desarrollo de una entrevista; estas situaciones pueden desencadenar la concesión de recursos no proyectados.  
-          .tarjeta.color-primario--borde.p-4(titulo="Tipo y naturaleza de la fuente de datos")
+          .tarjeta.color-primario--borde.p-4.my-3(titulo="Tipo y naturaleza de la fuente de datos")
             h4 Tipo y naturaleza de la fuente de datos 
             p Verificar el desarrollo de la temática de los tipos de fuentes de información es la característica más importante, porque aquí se evalúa de dónde vamos a obtener la información. Esta característica permitirá focalizar de forma correcta los recursos y técnicas que se vayan a aplicar.
 
