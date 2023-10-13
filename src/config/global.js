@@ -225,7 +225,7 @@ export default {
     {
       termino: 'Sistema de clasificación de datos',
       significado:
-        'mecanismo para organizar la proyección de la información que se obtendrá, con criterios de funcionalidad del dato, la evaluar su comportamiento y nivel de riesgo.',
+        'mecanismo para organizar la proyección de la información que se obtendrá, con criterios de funcionalidad del dato, para evaluar su comportamiento y nivel de riesgo.',
     },
     {
       termino: 'Técnica',
@@ -260,7 +260,7 @@ export default {
     },
     {
       referencia:
-        'Superintendencia de Industria y Comercio de Colombia. (2022). <i>Argumentos y concepto aplicación del derecho de habeas data.</i> ',
+        'Superintendencia de Industria y Comercio de Colombia. (2022). <i>Manejo de información personal, ‘Habeas Data’.</i> ',
       link: 'https://www.sic.gov.co/manejo-de-informacion-personal',
     },
     {

@@ -13,7 +13,7 @@
           p(data-aos="fade-down").mb-0 La  legislación en Colombia está orientada a la protección integral del manejo de información y datos de carácter personal, lo anterior es definido en la Ley 1581 de 2012, por la cual se dictan disposiciones generales para la protección de datos personales, procurado la protección integral de la información de la persona natural o jurídica y se busca dar un respaldo a la protección de sus datos, tomando como referencia la compilación de argumentos jurídicos. 
         p(data-aos="fade-down") Además, el país dispone de la Superintendencia de Industria y Comercio que es la autoridad nacional de protección de la competencia, los datos personales y la metrología legal; protege los derechos de los consumidores y administra el Sistema Nacional de Propiedad Industrial, a través del ejercicio de sus funciones administrativas y jurisdiccionales. Esta entidad define el manejo de la información personal 
           em ‘Habeas Data’ 
-          | como el derecho que tiene toda persona de conocer, actualizar y rectificar la información que se haya recogido sobre ella, en archivos y bancos de datos, de naturaleza pública o privada. Es por eso que el tratamiento de la información es limitada y, para un manejo correcto, debe velar por el cumplimiento de seis principios basados en la finalidad, restricción, temporalidad, interpretación, seguridad y confidencialidad.
+          | como el derecho que tiene toda persona de conocer, actualizar y rectificar la información que se haya recogido sobre ella, en archivos y bancos de datos, de naturaleza pública o privada. Es por eso que el tratamiento de la información es limitado y, para un manejo correcto, debe velar por el cumplimiento de seis principios basados en la finalidad, restricción, temporalidad, interpretación, seguridad y confidencialidad.
 
  
       .col-lg-5
@@ -36,7 +36,7 @@
 
     p(data-aos="fade-down") Finalmente llegamos al ejercicio de clasificar los datos, esta acción permite dar organización y secuencia lógica o funcional; en algunos escenarios los datos son limitados debido a la existencia de información restringida, pero es posible tener acceso a ella mediante los parámetros preestablecidos por la organización, y de acuerdo al cumplimiento a los requerimientos de ley. 
 
-    p(data-aos="fade-down").mb-5 Para establecer un esquema de clasificación de los datos se debe iniciar por analizar la naturaleza organizacional y el enfoque de información que se requiere administrar y seguido de ello se debe generar esquemas integrales que se adapten a las necesidades. Por consiguiente, a continuación se exponen algunas de las generalidades a tener en cuenta:
+    p(data-aos="fade-down").mb-5 Para establecer un esquema de clasificación de los datos, se debe iniciar por analizar la naturaleza organizacional y el enfoque de información que se requiere administrar. Seguido de ello, se debe generar esquemas integrales que se adapten a las necesidades. Por consiguiente, a continuación se exponen algunas de las generalidades a tener en cuenta:
 
     .row.justify-content-center
       .col-md-10 

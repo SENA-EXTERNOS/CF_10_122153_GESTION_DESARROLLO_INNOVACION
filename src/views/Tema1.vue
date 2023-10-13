@@ -13,7 +13,7 @@
         p(data-aos="fade-down") Para empezar, hagamos la siguiente pregunta: ¿qué hacen las organizaciones para reconocer la denominación de los registros? 
         .cajon.color-acento-botones.p-4.mb-3(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Como respuesta, afirmaríamos que ellas se han orientado al almacenamiento de todo tipo de información reconocida y dispuesta a ser funcional, estos datos los traducen en variables de información para ser analizadas e interpretadas bajo componentes estadísticos, los cuales son un insumo transcendental en el enfoque organizacional.
-        p(data-aos="fade-down") En el entorno actual el manejo adecuado de los datos permite realizar proyecciones, marcar objetivos, reconocer brechas, identificar y evaluar la gestión de los resultados, entre otras necesidades que surjan en el mercado; y es así como las organizaciones que administran, manejan y analizan de forma responsable los datos tienen altas posibilidades de sobresalir en los segmentos donde ofertan sus servicios o funciones, bien sean organizaciones de ámbito público, privado, con ánimo, o sin ánimo de lucro.  
+        p(data-aos="fade-down") En el entorno actual el manejo adecuado de los datos permite realizar proyecciones, marcar objetivos, reconocer brechas, identificar y evaluar la gestión de los resultados, entre otras necesidades que surjan en el mercado; y es así como las organizaciones que administran, manejan y analizan de forma responsable los datos tienen altas posibilidades de sobresalir en los segmentos donde ofertan sus servicios o funciones, bien sean organizaciones de ámbito público, privado, con ánimo o sin ánimo de lucro.  
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .cajon.color-primario.p-4(data-aos="flip-down")
@@ -45,11 +45,7 @@
         .cajon.color-acento-botones.p-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Las organizaciones con el objetivo de gestionar integralmente la información han volcado sus esfuerzos en la clasificación de los datos, este ordenamiento varía particularmente en el tipo de organización y su oferta de servicios; así como también en los procesos y procedimientos que desarrolle para el cumplimiento de su misión.   
 
-    p(data-aos="fade-down").mb-5 Para que el desarrollo adecuado de la clasificación de datos se realice correctamente, se sugiere seguir los principios establecidos por 
-      em American Welding Society (AWS). 
-      | El siguiente esquema está basado en 
-      em Data Classification 
-      | (AWS, 2019,) y explica los seis principios fundamentales para la categorización de los datos; “estos deben usarse como punto de referencia permanente en la construcción y/o refinamiento de una gestión de la información y estrategia de clasificación de datos”. (p. 7)
+    p(data-aos="fade-down").mb-5 Para que el desarrollo adecuado de la clasificación de datos se realice correctamente, se sugiere seguir los principios establecidos por American Welding Society (AWS). El siguiente esquema está basado en Data Classification (AWS, 2019) y explica los seis principios fundamentales para la categorización de los datos; “estos deben usarse como punto de referencia permanente en la construcción y/o refinamiento de una gestión de la información y estrategia de clasificación de datos”. (p. 7)
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
@@ -61,7 +57,7 @@
           .tarjeta.color-secundario.p-3(x="23%" y="12.5%" numero="+")
             p.mb-0 En la actualidad, el manejo de los datos debe protegerse, de acuerdo con el nivel de sensibilidad, valor y criticidad de la información. También se manejan criterios de niveles de riesgo y sensibilidad, para la administración de mecanismos de protección y reserva. 
           .tarjeta.color-acento-contenido.p-3(x="17.5%" y="50%" numero="+")
-            p.mb-0 Los datos deben poder ser clasificados de acuerdo con su contenido, dado que puede generar sensibilidad en el manejo de la información. Además deben tener carácter de generalidades y no de particularidades independientemente del modelo de obtención. No debe haber ninguna discriminación basada en el formato o soporte de la información.
+            p.mb-0 Los datos deben poder ser clasificados de acuerdo con su contenido, dado que puede generar sensibilidad en el manejo de la información. Además, deben tener carácter de generalidades y no de particularidades independientemente del modelo de obtención. No debe haber ninguna discriminación basada en el formato o soporte de la información.
           .tarjeta.color-secundario.p-3(x="22%" y="86%" numero="+") 
             p.mb-0 La clasificación parte de la utilización detallada y precavida, la cual debe ser tratada de manera sensible, con respeto y tacto por la importancia y criticidad de la información. Para ello, la clasificación debe tener una objetividad ética y diferenciada a sus canales de acceso, buscando siempre la integridad y transparencia para el manejo de todo.
 

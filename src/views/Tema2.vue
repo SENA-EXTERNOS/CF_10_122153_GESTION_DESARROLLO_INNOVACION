@@ -11,7 +11,7 @@
 
     p(data-aos="fade").mb-4 “La fuente de información es todo aquello que nos proporciona datos para reconstruir hechos y las bases del conocimiento, afirmando que las fuentes de información son un instrumento para el conocimiento, la búsqueda y el acceso de la información”. (p. 2)
 
-    p(data-aos="fade-down").mb-5 A continuación, se presentan los diferentes tipos de fuentes de información según lo expuesto por Rivera, M. & Fernández, M. (2015), estas serán de gran apoyo al investigador para la focalización de la información
+    p(data-aos="fade-down").mb-5 A continuación, se presentan los diferentes tipos de fuentes de información según lo expuesto por Rivera, M. & Fernández, M. (2015), estas serán de gran apoyo al investigador para la focalización de la información.
 
     .row.justify-content-center.align-items-start.mb-3          
       .col-lg-7
@@ -45,7 +45,7 @@
                   p.mb-0 Se utilizan para buscar datos o para obtener una idea general.
                 li 
                   i.fas.fa-check
-                  p.mb-0 Las principales fuentes de información terciaria son: bibliografías, almacenes, directorios, donde se encuentran las referencias de otros documentos, títulos de revistas y otras publicaciones
+                  p.mb-0 Las principales fuentes de información terciaria son: bibliografías, almacenes, directorios, donde se encuentran las referencias de otros documentos, títulos de revistas y otras publicaciones.
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img5.svg', alt='')
 
@@ -102,7 +102,7 @@
             p Con el fin de tener claridad en los datos y determinar la magnitud de los instrumentos requeridos para su análisis se debe articular la población, muestreo y determinación de la muestra, de modo que se pueda definir cuál técnica será la más favorable para el levantamiento, el tratamiento y el análisis de la información.  
           .tarjeta.color-primario--borde.p-4.my-3(titulo="Los recursos con los que cuenta y requiere la investigación")
             h4 Los recursos con los que cuenta y requiere la investigación 
-            p Los recursos con que cuenta la organización, son vitales para la disposición de herramientas. Cuando hablamos de recursos, debemos tener presentes los económicos, humanos, tecnológicos, logísticos, entre muchos otros; además de estos, se debe comprender que la investigación se pueden necesitar recursos que no se administren, y para no carecer de ellos, se deben planificar y gestionar de manera oportuna su consecución. 
+            p Los recursos con que cuenta la organización, son vitales para la disposición de herramientas. Cuando hablamos de recursos, debemos tener presentes los económicos, humanos, tecnológicos, logísticos, entre muchos otros; además de estos, se debe comprender que en la investigación se pueden necesitar recursos que no se administren, y para no carecer de ellos, se deben planificar y gestionar de manera oportuna su consecución. 
           .tarjeta.color-primario--borde.p-4.my-3(titulo="La oportunidad de obtener datos")
             h4 La oportunidad de obtener datos 
             p Las variables de tiempo y oportunidad en muchas ocasiones no se planifican y son determinantes en la obtención de datos. No es lo mismo realizar levantamiento de información en trabajos de campo cuando el clima es de invierno o verano, o llegar en momentos de afectaciones empresariales al desarrollo de una entrevista; estas situaciones pueden desencadenar la concesión de recursos no proyectados.  
@@ -127,7 +127,7 @@
       .tarjeta.color-secundario.p-3(x="29.6%" y="33.2%" numero="+")
         p Es una situación de interrelación o diálogo entre el entrevistador y el entrevistado. Esta técnica presenta diversas modalidades: asistemática o libre, estructurada, focalizada, simultánea y sucesiva.    
       .tarjeta.color-acento-contenido.p-3(x="50.1%" y="68.7%" numero="+")
-        p Una diferencia muy notoria entre esta y las otras técnicas que se están tratando es que en estas últimas se obtienen datos de fuente primaria, y contrastando con el análisis documental los datos se recolectan de fuentes secundarias.
+        p Una diferencia muy notoria entre esta y las otras técnicas que se están tratando, es que en estas últimas se obtienen datos de fuente primaria y, contrastando con el análisis documental, los datos se recolectan de fuentes secundarias.
       .tarjeta.color-secundario.p-3(x="70.7%" y="33.2%" numero="+")
         p Está técnica se utiliza para profundizar en el conocimiento del comportamiento de exploración. Un ejemplo claro es que en una investigación exploratoria se ha encontrado que los clientes de una empresa no están conformes con el tiempo que deben esperar para ser atendidos.         
       .tarjeta.color-acento-contenido.p-3(x="91.2%" y="68.7%" numero="+")

@@ -7,7 +7,7 @@
         span 3
       h1 Instrumentos de recolección de datos
 
-    p(data-aos="fade-down").mb-5 Al haber comprendido de dónde vamos a obtener los datos, los métodos de la investigación y las técnicas que se aplican para la recolección de información es necesario tener presente que la objetividad de los instrumentos juega un papel importante y decisivo para la puesta en marcha de la investigación, porque su correcta elaboración deja fluir de manera acertada el levantamiento de información y evita retrocesos que puedan impactar de manera negativa la investigación; además, estos instrumentos permitirán obtener los análisis delimitados y determinados previamente.
+    p(data-aos="fade-down").mb-5 Al haber comprendido de dónde vamos a obtener los datos, los métodos de la investigación y las técnicas que se aplican para la recolección de información, es necesario tener presente que la objetividad de los instrumentos juega un papel importante y decisivo para la puesta en marcha de la investigación, porque su correcta elaboración deja fluir de manera acertada el levantamiento de información y evita retrocesos que puedan impactar de manera negativa la investigación; además, estos instrumentos permitirán obtener los análisis delimitados y determinados previamente.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
@@ -21,7 +21,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Para ampliar la información sobre este tema lo invitamos a ver el video #[b Confiabilidad y validez de un instrumento de investigación I], metodología de la investigación que se encuentra en el material complementario.
+                  p.mb-0 Para ampliar la información sobre este tema lo invitamos a ver el video #[b Confiabilidad y validez de un instrumento de investigación I Metodología de la investigación,] que se encuentra en el material complementario.
  
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://youtu.be/yZH6WGoQMhk" target="_blank")
@@ -36,7 +36,8 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         LineaTiempoD.color-secundario
-          p.mb-0(numero="1" titulo="Fase 1 - Redefiniciones fundamentales") En esta etapa se deberán reevaluar las variables de la investigación (ver si se mantienen o modifican), el lugar específico donde se recabarán los datos, el propósito de tal recolección, quiénes y cuándo (momento) van a ser medidos, las definiciones operacionales y el tipo de datos que se quieren obtener (respuestas verbales, respuestas escritas, conductas observables, valores de una escala, etcétera). 
+          p.mb-0(numero="1" titulo="Fase 1") #[b Redefiniciones fundamentales]
+            | En esta etapa se deberán reevaluar las variables de la investigación (ver si se mantienen o modifican), el lugar específico donde se recabarán los datos, el propósito de tal recolección, quiénes y cuándo (momento) van a ser medidos, las definiciones operacionales y el tipo de datos que se quieren obtener (respuestas verbales, respuestas escritas, conductas observables, valores de una escala, etc.). 
 
           p.mb-0(numero="2" titulo="Fase 2 - Revisión enfocada de la literatura") Este paso debe servir para encontrar mediante la revisión de la literatura, los instrumentos o sistemas de medición utilizados en otros estudios anteriores para medir las variables de interés, lo cual ayudará a identificar qué herramientas pueden ser de utilidad.
 
@@ -52,7 +53,7 @@
 
           p.mb-0(numero="5" titulo="Fase 5 - Construcción del instrumento") La etapa implica la generación de todos los ítems o reactivos, indicadores y/o categorías del instrumento, así como determinar sus niveles de medición, codificación e interpretación. 
 
-          p.mb-0(numero="6" titulo="Fase 6 – Prueba piloto") Consiste en administrar el instrumento a una pequeña muestra de casos para probar su pertinencia y eficacia (incluyendo instrucciones), así como las condiciones de la aplicación y los procedimientos involucrados. A partir de esta prueba se calculan la confiabilidad y la validez iniciales del instrumento. 
+          p.mb-0(numero="6" titulo="Fase 6 – Prueba piloto") Consiste en administrar el instrumento a una pequeña muestra de casos para probar su pertinencia y eficacia (incluyendo instrucciones), así como las condiciones de la aplicación y los procedimientos involucrados. A partir de esta prueba se calculan la confiabilidad y la validez inicial del instrumento. 
 
           p.mb-0(numero="7" titulo="Fase 7 – Elaboración de la versión final del instrumento y su procedimiento de aplicación e interpretación") Implica la revisión del instrumento o sistema de medición y su forma de administración, para implementar cambios necesarios (quitar o agregar ítems, ajustar instrucciones, tiempo para responder, etc.) y posteriormente construir la versión definitiva, incluyendo un diseño atractivo.
 
@@ -99,7 +100,7 @@
           .tarjeta.color-secundario
             .p-4.text-center
               h4 Preguntas de tipo mixto
-              p Es común encontrar encuestas con preguntas de tipo cerrado que incluyen alternativas de preguntas de tipo abierto, por ejemplo en preguntas como observaciones u otros.
+              p Es común encontrar encuestas con preguntas de tipo cerrado que incluyen alternativas de preguntas de tipo abierto, por ejemplo, en preguntas como observaciones u otros.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
